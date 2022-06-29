@@ -1,6 +1,6 @@
 ## Oh, Hello there!
 
-I'm a developer, obviously, an
+I'm a developer, obviously.
 
 
 
